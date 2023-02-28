@@ -8,3 +8,4 @@ My name is Thien Ly. I am a B.Sc. in Math & Data Science, majoring in Machine Le
 * Optimized XGBoost, Catboost, LightGBM & RandomForest with Bayesian optimization.
 * Returned the best model based on chosen metric with explanations based on XAI techniques.
 
+<img src="https://github.com/lhthien09/Thien_porfolio/blob/main/images/forester_diagram.png" width="500">

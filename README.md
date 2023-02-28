@@ -5,6 +5,6 @@ My name is Thien Ly. I am a B.Sc. in Math & Data Science, majoring in Machine Le
 
 ## Project 1: an AutoML package [**forester**](https://github.com/ModelOriented/forester) in R: Project Overview
 * Implemented first version of forester package to automatically tuning tree-based models with raw data.
-* Optimized XGBoost, Catboost, LightGBM & RandomForest with hyperparameters optimization methods.
+* Optimized XGBoost, Catboost, LightGBM & RandomForest with Bayesian optimization.
 * Returned the best model based on chosen metric with explanations based on XAI techniques.
 
